@@ -297,6 +297,23 @@ header #menu{
     padding:1rem 0;
 }
 
+#searchBar {
+    width: 50%;
+    margin-top: 25px;;
+    height: 45px;
+    top: 10px;
+    border-radius: 20px;
+    border: 2px solid #454ADE ;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+#searchWrapper {
+    position: relative;
+}
+
+
+
 .course .box-container{
     display: flex;
     align-items: center;
