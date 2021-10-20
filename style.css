@@ -233,12 +233,12 @@ header #menu{
 
 .home h1{
     font-size: 6rem;
-    color:#666;
+    color:#FFFFFF;
 }
 
 .home p{
     font-size: 1.9rem;
-    color:#999;
+    color:#CDCDCD;
     padding:1rem 0;
     width:70rem;
 }
