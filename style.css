@@ -115,7 +115,9 @@ header .navbar ul li a.active,
 header .navbar ul li a:hover{
     color:#444;
 }
-
+.navbar ul li a.active{
+    color: black;
+}
 header #login{
     font-size: 3rem;
     color:#fff;
@@ -132,6 +134,10 @@ header #menu{
     cursor: pointer;
     display: none;
 }
+.active {
+    color: black;
+}
+
 
 .login-form{
     height:100%;
