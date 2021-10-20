@@ -393,6 +393,7 @@ header #menu{
 .teacher{
     text-align: center;
     background:url(../images/teachers.jfif) no-repeat;
+    opacity: 85%;
     background-size: cover;
     background-position: bottom;
 }
