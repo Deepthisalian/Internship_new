@@ -88,11 +88,13 @@ header{
     padding:1.5rem 7%;
     background:var(--gradient);
     box-shadow: 0 .1rem .3rem rgba(0,0,0,.3);
+    
 }
 
 header .logo{
     color:#fff;
     font-size: 2.5rem;
+    
 }
 
 header .navbar ul{
@@ -229,7 +231,7 @@ header #menu{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url(images/download3.png) no-repeat;
+    background:url(images/background.png) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -249,16 +251,6 @@ header #menu{
     width:70rem;
 }
 
-.home .shape{
-    position: absolute;
-    bottom:-.2rem; left: 0;
-    height:15rem;
-    width:100%;
-    background:url(../images/shape.png);
-    block-size: 100rem 15rem;
-    filter: drop-shadow(0 -.1rem .1rem rgba(0,0,0,.2));
-    animation: animate 10s linear infinite;
-}
 
 @keyframes animate{
 
@@ -531,20 +523,6 @@ header #menu{
 .footer .credit a{
     color:#f39c12
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* media queries  */
 
